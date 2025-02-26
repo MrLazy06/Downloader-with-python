@@ -1,7 +1,3 @@
-Berikut adalah contoh README.md yang ditulis dengan gaya santai dan mudah dipahami:
-
----
-
 # Downloader YouTube Playlist dengan Python
 
 Project ini adalah alat sederhana yang menggunakan library **yt-dlp** untuk mengunduh playlist YouTube, baik dalam bentuk video (MP4) maupun audio (MP3). Anda bisa memilih resolusi video (misalnya 1080p atau 720p) atau kualitas audio (misalnya 320, 192, atau 128 kbps) sesuai kebutuhan. Untuk menggabungkan stream video dan audio, project ini menggunakan **ffmpeg**.
@@ -74,7 +70,3 @@ Misalnya, jika Anda ingin mendownload playlist sebagai video dengan resolusi 108
 
 ## Lisensi
 Project ini bebas untuk digunakan dan dimodifikasi sesuai kebutuhan Anda.
-
----
-
-Semoga README ini membantu dan selamat mencoba! Jika ada pertanyaan atau saran, jangan ragu untuk menghubungi saya.
